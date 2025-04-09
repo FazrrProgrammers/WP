@@ -17,7 +17,7 @@ ascii_art = f"""{GREEN}
 ██║███╗██║██╔═══╝ ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══╝  
 ╚███╔███╔╝██║     ██████╔╝██║  ██║╚██████╔╝   ██║   ███████╗
  ╚══╝╚══╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
-         {YELLOW}WordPress Bruteforce by Sibermuda{RESET}
+         {YELLOW}WordPress Bruteforce by FazrrWPbrute{RESET}
 """
 
 # Fungsi untuk mencari username otomatis
