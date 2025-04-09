@@ -2,6 +2,15 @@
 password
 12345678
 qwerty
+admin
+admin123
+pass
+pass123
+password
+inipassword
+administrator
+testadmin
+fazrrganteng
 123456789
 12345
 1234
